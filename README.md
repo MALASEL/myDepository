@@ -12,4 +12,4 @@ Some more dummy text, 25mins until lunch!
 
 ![](IMG_0069.JPG)
 
-
+* --ADDITIONAL LINE SUGGESTED BY MALA
